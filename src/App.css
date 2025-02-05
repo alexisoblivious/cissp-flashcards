@@ -1,0 +1,11 @@
+.navigation button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.navigation button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
