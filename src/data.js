@@ -34,7 +34,7 @@ const domains = [
       { question: 'Purging', answer: 'salitizing data from physical devices in a way that makes it impossible to recover, including cryptographic erasure or overwriting, allows for reuse of the storage media' },
       { question: 'Data Destruction', answer: 'permanently removing data from storage media to where it cannot be recovered or reconstructed. This could be done by  physical destruction or degaussing, typically renders the storage media unusable' },
       { question: 'Responsibility', answer: 'assigning specific roles and duties to individuals within an organization to ensure that assets are protected throughout their lifecycle' },
-      { question: 'Data Custodian', answer: 'supporting rold to data owner taksed with technical safeguarding and management of data. Handles operational responsibilities  of data storage, maintenance and protection.' }
+      { question: 'Data Custodian', answer: 'supporting role to data owner tasked with technical safeguarding and management of data. Handles operational responsibilities  of data storage, maintenance and protection.' }
     ],
   },
   {
