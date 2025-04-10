@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cissp-flashcards/static/css/main.2a5e3051.css",
-    "main.js": "/cissp-flashcards/static/js/main.53e382f8.js",
+    "main.js": "/cissp-flashcards/static/js/main.c299ec3a.js",
     "index.html": "/cissp-flashcards/index.html",
     "main.2a5e3051.css.map": "/cissp-flashcards/static/css/main.2a5e3051.css.map",
-    "main.53e382f8.js.map": "/cissp-flashcards/static/js/main.53e382f8.js.map"
+    "main.c299ec3a.js.map": "/cissp-flashcards/static/js/main.c299ec3a.js.map"
   },
   "entrypoints": [
     "static/css/main.2a5e3051.css",
-    "static/js/main.53e382f8.js"
+    "static/js/main.c299ec3a.js"
   ]
 }
